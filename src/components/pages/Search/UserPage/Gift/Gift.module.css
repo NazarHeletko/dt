@@ -1,0 +1,19 @@
+.gift {
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 6px;
+}
+
+.user-photo {
+    border-radius: 50%;
+    overflow: hidden;
+    height: 38px;
+    width: 38px;
+}
+
+.user-photo img {
+    height: 38px;
+}
+.gift-icon {
+    height: 38px;
+}
